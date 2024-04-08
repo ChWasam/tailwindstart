@@ -31,7 +31,7 @@ export default function Home() {
 // max-w-4xl we can define the max width
 //mx-auto  This class sets both left and right margins to auto, which effectively centers the element horizontally
 // tracking-wider  spaces between letters
-// spaces between lines
+// leading-10 spaces between lines
 // underline
 // italic
 //uppercase
