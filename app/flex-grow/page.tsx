@@ -31,3 +31,5 @@ export default function Home() {
 // flex-grow-[3]
 
 // flex-grow
+
+// flex-grow-0
