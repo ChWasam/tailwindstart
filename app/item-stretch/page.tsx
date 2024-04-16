@@ -30,6 +30,8 @@ export default function Home() {
   );
 }
 
+//item-stretch by default
+
 // 1st div item-stretch is by default (check red color)
 
 // 2nd div item-start  (check red color)

@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="flex flex-col justify-center items-center gap-y-20 bg-purple-800 w-screen h-full">
-      <div className="flex items-center justify-center bg-red-200  w-[800px] min-h-[100px] p-5 rounded-lg shadow-lg ">
+      <div className="flex items-center justify-center bg-red-200  w-full min-h-[100px] p-5 rounded-lg shadow-lg ">
         <input
           className=" bg-white rounded-l-lg px-4 py-2 flex-grow-[2] "
           type="email"
