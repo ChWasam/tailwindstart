@@ -82,3 +82,5 @@ export default function Home() {
 
 // very Important for smooth transition
 // transition-all duration-700
+
+// flex-grow-0 is by default
