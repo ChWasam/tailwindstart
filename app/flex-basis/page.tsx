@@ -23,3 +23,4 @@ export default function Home() {
   );
 }
 
+// basis-auto items takes space based on their content 

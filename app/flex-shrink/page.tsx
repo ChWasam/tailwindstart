@@ -38,5 +38,5 @@ export default function Home() {
   );
 }
 
-// flex-shrink is by default 
+// flex-shrink is by default   flex-shrink-1
 // we will use flex-shrink-0
