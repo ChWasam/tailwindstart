@@ -14,12 +14,13 @@ export default function Home() {
   );
 }
 
-// complete screen can be devided into 12 rows and 12 colums with diffent height
+// complete screen can be divided into 12 rows and 12 colums with diffent height
 // when you write grid word in className  1 column got created
 // grid-flow-row yeh bydefault hoti ha
+//grid-col-3 matlab 3 col bana do 
 // grid-col-[auto,auto,auto] adjust column width as per content
 // lakin thori space bachti ha
-// grid-col-[auto,auto,1 fr]
+// grid-col-[auto,auto,1 fr] is me pehla do ko pora pora bas content ka mutabiq hi space milti ha 
 // 100 pc of space left 3rd column ko mil gae
 // fr=fraction
 // kisi ak div ke allignment karni ho ge to self use kar lain ga
