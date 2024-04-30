@@ -27,5 +27,5 @@ export default page;
 {
   /*  1fr (jitni available space ho ge wo la lai ga ) */
 }
-// md:grid-cols-[repeat(3,minmax(auto,18rem))] 
-// bydefault grid-cols-1 ka matlab hota ha md:grid-cols-[repeat(3,minmax(0,1fr))] 
+// md:grid-cols-[repeat(3,minmax(auto,18rem))]
+// bydefault grid-cols-1 ka matlab hota ha md:grid-cols-[repeat(3,minmax(0,1fr))]
